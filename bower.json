@@ -8,10 +8,6 @@
 		"homepage": "http://www.wobis.fr"
 	}
   ],
-  "repository": {
-	"type": "git",
-	"url": "git://github.com/chrisben/imgcache.js.git"
-  },
   "description": "JS library that stores images locally for offline apps using PhoneGap/Cordova or browsers supporting the new html5 File API",
   "main": "js/imgcache.js",
   "keywords": [
